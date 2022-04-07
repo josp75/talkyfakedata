@@ -34,13 +34,13 @@
       "smscost": 15.5
     }
   ],
-  "account": [
+  "accounts": [
     {
       "id": 1,
       "token": "142G1413",
       "uniqueid": "",
-      "idcontact": 1,
-      "idcompany": 1,
+      "contactId": 1,
+      "companyId": 1,
       "solde": 100,
       "smscost": 15.5
     }
