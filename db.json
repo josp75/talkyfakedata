@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "phonenumber": 237696870887,
+      "gender": 1,
+      "firstname": "Jospin junior",
+      "lastname": "MAMBOU YAKAM",
+      "email": "jospin@imediatis.net",
+      "city": "DOUALA",
+      "address": "OYACK"
+    },
+    {
+      "id": 2,
+      "phonenumber": 237674176546,
+      "gender": 1,
+      "firstname": "Cyrille",
+      "lastname": "WOUPO",
+      "email": "cyrille@imediatis.net",
+      "city": "DOUALA",
+      "address": "MAKEPE Bloc M"
+    }
+  ],
+  "company": [
+    {
+      "id": 1,
+      "token": "142G1413",
+      "name": "IMEDIATIS SARL",
+      "senderid": "IMEDIATIS",
+      "city": "DOUALA",
+      "address": "MAKEPE BLOC M",
+      "owner": 2,
+      "balance": 15000,
+      "smscost": 15.5
+    }
+  ],
+  "account": [
+    {
+      "id": 1,
+      "token": "142G1413",
+      "uniqueid": "",
+      "idcontact": 1,
+      "idcompany": 1,
+      "solde": 100,
+      "smscost": 15.5
+    }
+  ]
+}
