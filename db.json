@@ -7,6 +7,7 @@
         "token": "142G1413",
         "uniqueid": "35454dasd",
         "firebase": "dada415454ad4d1541a5",
+        "user": "dada415454ad4d1541a5",
         "contact": {
           "phonenumber": 237696870887,
           "gender": 1,
@@ -15,24 +16,6 @@
           "email": "jospin@imediatis.net",
           "city": "DOUALA",
           "address": "OYACK"
-        },
-        "account": {
-          "token": "5445451",
-          "company": "IMEDIATIS SARL",
-          "senderid": "IMEDIATIS",
-          "city": "DOUALA",
-          "address": "MAKEPE BLOC M",
-          "balance": 15000,
-          "smscost": 15.5,
-          "manager" : {
-            "phonenumber": 237674176546,
-            "gender": 1,
-            "firstname": "Cyrille",
-            "lastname": "WOUPO",
-            "email": "cyrille@imediatis.net",
-            "city": "DOUALA",
-            "address": "MAKEPE Bloc M"
-          }
         },
         "balance": 20,
         "unitcost": 15.5
