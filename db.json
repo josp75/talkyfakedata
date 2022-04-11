@@ -7,6 +7,7 @@
         "token": "142G1413",
         "uniqueid": "35454dasd",
         "firebase": "dada415454ad4d1541a5",
+        "senderid": "IMEDIATIS",
         "contact": {
           "phonenumber": 237696870887,
           "gender": 1,
@@ -18,6 +19,31 @@
         },
         "balance": 75,
         "unitcost": 15.5
+      }
+    }
+  ],
+
+  "resetPassword": [
+    {
+      "id": 1,
+      "status": 1,
+      "response": {
+        "token": "142G1413",
+        "uniqueid": "35454dasd",
+        "firebase": "dada415454ad4d1541a5",
+        "senderid": "IMEDIATIS",
+        "contact": {
+          "phonenumber": 237696870887,
+          "gender": 1,
+          "firstname": "Jospin junior",
+          "lastname": "MAMBOU YAKAM",
+          "email": "jospin@imediatis.net",
+          "city": "DOUALA",
+          "address": "OYACK"
+        },
+        "balance": 75,
+        "unitcost": 15.5,
+        "password": "xcdcdc-dfd"
       }
     }
   ],
