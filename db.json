@@ -70,5 +70,30 @@
       "solde": 100,
       "smscost": 15.5
     }
+  ],
+  "requierment": [
+    {
+      "id": 1,
+      "status": 1,
+      "response": {
+        "senderidblacklist": [
+          {
+            "nom": "MobileMoney"
+          },
+          {
+            "nom": "FreeAyoba"
+          },
+          {
+            "nom": "BonPlanMTN"
+          },
+          {
+            "nom": "MTN"
+          },
+          {
+            "nom": "OrangeMoney"
+          }
+        ]
+      }
+    }
   ]
 }
